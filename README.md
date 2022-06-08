@@ -11,7 +11,7 @@ In this project due to time constrain I have created the most basic web server (
 this rust server works on port 127.0.0.1:7877 (section before the colon is an IP address representing your computer) 7877 is my port
 server only response 200/ok 
 
-My HTML file consist of proper HTML, CSS and JavaScript code
+My HTML file consist of proper HTML, CSS and JavaScript code.
 I have created function in JS for proper functioning although I had to hard code fuction multiple time for different tabs because I wasn't able to get a hang of
 'This' keyword , in due time I will change my code and make it more efficient.
 HTML and CSS in my project is upto mark.
