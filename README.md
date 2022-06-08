@@ -3,7 +3,7 @@ KOSS task
 This project comprises of a web server which enables a web site in which you can organise your task. List them as important , cross them after completed , add more task &
 delete excisting task. Along with this you can also create a grocery list and notes regarding your tasks.
 To run this project download the repositiory on your remote device
-run main.rs
+run main.rs,
 run "127.0.0.1:7877" -port on any web server
 your personal task manager will appear
 
